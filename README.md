@@ -1,1 +1,1 @@
-Latent Dirichlet-Tree Allocation
+# Vectorized Bayesian Inference for Latent Dirichlet-Tree Allocation
